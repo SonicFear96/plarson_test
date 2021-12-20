@@ -1,5 +1,9 @@
 UNION
 
+SELECT 'Январь', '31'
+
+UNION
+
 SELECT 'Февраль', '28'
 
 UNION
